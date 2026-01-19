@@ -2,9 +2,11 @@
 
 An interactive testimonial showcase featuring flip cards that reveal brand reviews. Each card displays a company logo on the front and flips to show a detailed testimonial with client information when clicked. Built with pure HTML, CSS, and minimal JavaScript for a smooth 3D flip animation.
 
+<img width="1920" height="1071" alt="solstice" src="https://github.com/user-attachments/assets/d12e384c-dec8-41cd-bb8b-2f1f7ecdc96c" />
+
 ## Live Preview
 
-[View Live Demo](https://thisislefa.github.io/Solstice)
+[View Live Demo](https://lefajmofokeng.github.io/Solstice)
 
 ## Features
 
@@ -267,6 +269,7 @@ For issues, questions, or contributions:
 ---
 
 *Built with pure HTML, CSS, and JavaScript. No frameworks, no build steps, just clean code.*
+
 
 
 
